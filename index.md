@@ -34,7 +34,7 @@ Worked as part of a small 2 man software team in a wider multidisciplinary engin
 
 - Developed Vision Systems Software using the following languages, frameworks and technologies
   - C# .NET
-- WPF
+  - WPF
   - MVVM
   - Prism
   - XAML
