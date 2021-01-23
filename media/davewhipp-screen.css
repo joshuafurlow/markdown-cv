@@ -87,7 +87,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%%;
+	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -103,21 +103,21 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	width: 60%;
+	width: 70%;
 	/*color: #777;*/
 }
 
 li ul {
 	position: relative;
 	left: 0;
-	width: 75%;
+	width: 100%;
 	margin-top: 0.25em;
 }
 
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 70%;
+	width: 80%;
 }
 
 h1 {
