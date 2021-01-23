@@ -8,9 +8,10 @@ Lead vision Software Engineer
 <div id="webaddress">
   <a href="joshua.furlow@outlook.com">joshua.furlow@outlook.com</a>
 </div>
+
 ## Currently
 
-I am working for Bytronic Automation as the lead Machine Vision Software Engineer. A proven record of breaking down complex problems into simple solutions. Always keen to learn new technologies.
+I am working for [Bytronic Automation](https://bytronic.com/) as the lead Machine Vision Software Engineer. A proven record of breaking down complex problems into simple solutions. Always keen to learn new technologies.
 
 ### Specialized in
 
